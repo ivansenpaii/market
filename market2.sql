@@ -167,7 +167,8 @@ INSERT INTO product_page
             (
              product_id   
             )            
-              
+
+-- product preview page
             
 SELECT pp.id, p.id, p.name, pi.image_preview, pi.image,p.category_id, c.name as category_name, p.subcategory_id, s.name as subcategory_name, price_old, price, price_discount, p.description
 FROM product_page pp, product p, product_image, category c, subcategory s, price, product_image pi
