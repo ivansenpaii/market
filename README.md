@@ -2,4 +2,4 @@ interactive sql diagram
 https://drawsql.app/--794/diagrams/lamoda#
 
 or screenshot
-![image](https://user-images.githubusercontent.com/65483938/180609713-8a4a88e4-e4d9-4d76-acc7-3e1abdc7e0fe.png)
+![image](https://user-images.githubusercontent.com/65483938/180611106-6d743c1c-61e4-438d-a952-f80f4066b25f.png)
