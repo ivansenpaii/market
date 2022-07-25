@@ -1,4 +1,5 @@
 CREATE DATABASE market;
+USE market;
 
 -- create a table
 
